@@ -1,6 +1,6 @@
 import OpenAI from 'openai';
 import readlineSync from 'readline-sync';
-const OPEN_API_KEY = 'AQ.Ab8RN6JyKAQKIIP0-oJSaofmRNysnm9secN_anpB_6HeU9wDOw';
+const OPEN_API_KEY = 'OPEN_API_KEY';
 
 const client = new OpenAI({
     apiKey: OPEN_API_KEY,
