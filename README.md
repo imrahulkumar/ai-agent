@@ -1,4 +1,4 @@
-# AI Weather Agentrf
+# AI Weather Agent
 
 A small AI agent built from scratch in Node.js, made for learning. It uses no agent framework and no built-in tool calling: the model is taught to work in steps (**PLAN → ACTION → OBSERVATION → OUTPUT**) through the system prompt alone, and a loop in the code runs the tools it asks for.
 
